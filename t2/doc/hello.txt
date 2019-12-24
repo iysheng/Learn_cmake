@@ -1,0 +1,2 @@
+This is a doc file for hello world project.
+Just for learn cmake.
